@@ -1,0 +1,12 @@
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\bin\Debug\net6.0\ApiRestMysql.Model.deps.json
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\bin\Debug\net6.0\ApiRestMysql.Model.dll
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\bin\Debug\net6.0\ApiRestMysql.Model.pdb
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.AssemblyInfoInputs.cache
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.AssemblyInfo.cs
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.csproj.CoreCompileInputs.cache
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.dll
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\refint\ApiRestMysql.Model.dll
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.pdb
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ref\ApiRestMysql.Model.dll
+C:\Users\KenshinHimura\source\repos\ApiRestMysql\ApiRestMysql.Model\obj\Debug\net6.0\ApiRestMysql.Model.csproj.AssemblyReference.cache

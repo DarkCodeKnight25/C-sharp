@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DeFdu3LOVqFHZHhfwD+nIOyqbMRRM952NYhNl+aq5fg=",
+  "Source": "ApiRestMysql",
+  "BasePath": "_content/ApiRestMysql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

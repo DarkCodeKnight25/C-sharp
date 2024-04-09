@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Data\\ApiRestMysql.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Data\\ApiRestMysql.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Data\\ApiRestMysql.Data.csproj",
+        "projectName": "ApiRestMysql.Data",
+        "projectPath": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Data\\ApiRestMysql.Data.csproj",
+        "packagesPath": "C:\\Users\\KenshinHimura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KenshinHimura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Model\\ApiRestMysql.Model.csproj": {
+                "projectPath": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Model\\ApiRestMysql.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Model\\ApiRestMysql.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Model\\ApiRestMysql.Model.csproj",
+        "projectName": "ApiRestMysql.Model",
+        "projectPath": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Model\\ApiRestMysql.Model.csproj",
+        "packagesPath": "C:\\Users\\KenshinHimura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KenshinHimura\\source\\repos\\ApiRestMysql\\ApiRestMysql.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KenshinHimura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
